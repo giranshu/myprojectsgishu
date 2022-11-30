@@ -1,0 +1,48 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "rollno": 1,
+      "name": "Giranshu",
+      "dob": "2001-05-13",
+      "score": 91,
+      "skill": "Java"
+    },
+    {
+      "id": 2,
+      "rollno": 21,
+      "name": "Anmol",
+      "dob": "2016-04-27",
+      "score": 85,
+      "skill": "HTML"
+    },
+    {
+      "id": 4,
+      "rollno": 43,
+      "name": "Amrit",
+      "dob": "2001-01-01",
+      "score": 70,
+      "skill": "Python"
+    },
+    {
+      "id": 5,
+      "rollno": 12,
+      "name": "Lakshay",
+      "dob": "1111-11-11",
+      "score": 95,
+      "skill": "SE"
+    },
+    {
+      "id": 6,
+      "rollno": 18,
+      "name": "Virat",
+      "dob": "1212-12-12",
+      "score": 89,
+      "skill": "All"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
